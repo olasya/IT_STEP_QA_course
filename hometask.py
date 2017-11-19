@@ -9,6 +9,9 @@ text_b = "In the face of ambiguity, refuse the temptation to guess."
 print ("Посчитать количество элементов в списке names")
 print (len(names))
 #  2. Посчитать количество элементов в списке ages
+print("Посчитать количество элементов в списке ages")
+print (len(ages))
+
 #  3. Посчитать количество элементов в строке text_a
 #  4. Посчитать количество элементов в строке text_b
 #  5. Посчитать сумму элементов списка ages
