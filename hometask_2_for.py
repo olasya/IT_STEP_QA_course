@@ -3,5 +3,7 @@ names = ['Ann', 'Fillip', 'Monika', 'Ross', 'Sam', 'Alf', 'Roy', 'Sasha', 'Leon'
 # 	print x
 # for x in names:
 # 	print names.index(x)
+# for x in names:
+# 	print x[0]
 for x in names:
-	print x[0]
+ 	print x[-1]
